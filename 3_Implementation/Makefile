@@ -8,9 +8,9 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = calculator
+APPNAME = BasicCalculator
 EXT = .c
-SRCDIR = src
+SRCDIR = D:\New folder\New folder\MINI PROJECT report card to calci\M1_Application_BasicCalculator
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
