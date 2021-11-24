@@ -82,6 +82,11 @@ The calculator has the following keys: 0 to 9, . , +, -, \*, /, ±, =, (reset) C
 
 ![structural 2 diag cal](https://user-images.githubusercontent.com/94431295/142839712-092591f4-4de9-48a4-bd71-f5ba352cd207.jpg)
 
+# Behavioural Diagram
+![behavioral calci 2](https://user-images.githubusercontent.com/94431295/143289784-69f164e0-714a-405c-8151-6550d8e3eec2.jpg)
+
+![behavioral diagram calculator](https://user-images.githubusercontent.com/94431295/142839570-f1cd9720-a30a-4b0d-ab27-2722c9d2ff0f.jpg)
+
 ﻿**Implementation**
 
 **Folder Structure**
