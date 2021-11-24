@@ -1,10 +1,24 @@
-﻿***Detailed Requirements***
+﻿**Detailed Requirements**
 
-- **HIGH LEVEL REQUIREMENTS:**
+**High Level Requirements**
 
-Calculators combine inputs using electronic components called logic gates. The purpose of a calculator is to do correct calculations, and to do so efficiently. It is clear that a calculator should relieve the user of the need to do mental operations and of the need to rely on paper, so far as possible.
 
-- **Low LEVEL REQUIREMENTS:**
 
-**-** RAM : 4 to 8 kb of RAM
+|Id|Description|Status |
+| - | - | - |
+|HR\_01|Operating System (Windows /Linux)|Implemented|
+|HR\_02|C language|Implemented|
+|HR\_03|Pentium IV Processor|Implemented|
+|HR\_04|RAM (512MB)|Implemented|
+|HR\_05|Hard Disk(2GB)|Implemented|
+
+
+**Low** **Level Requirements**
+
+
+|Id|Description|Status |
+| - | - | - |
+|LR\_01|Using Addition, Subtraction, Multiplication, Division functions|Implemented|
+|LR\_02|Using functions to find square and square root|Implemented|
+|LR\_03|Bitwise logical operations|Implemented|
 
