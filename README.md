@@ -6,6 +6,12 @@
 # CPPCHECK Badge
 [![cppcheck-action-test](https://github.com/akshhh51/M1_Application_BasicCalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshhh51/M1_Application_BasicCalculator/actions/workflows/cppcheck.yml)
 
+# Code Quality Score
+![code score](https://api.codiga.io/project/29996/score/svg)
+
+# Code Grade
+![code grade](https://api.codiga.io/project/29996/status/svg)
+
 # Features
 Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
 Calculation history and memory capabilities.
