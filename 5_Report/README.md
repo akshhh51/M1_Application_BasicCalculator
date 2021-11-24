@@ -77,3 +77,36 @@ The calculator has the following keys: 0 to 9, . , +, -, \*, /, ±, =, (reset) C
 |LR\_02|Using functions to find square and square root|Implemented|
 |LR\_03|Bitwise logical operations|Implemented|
 
+# Structural Diagram
+![structural diag calculator](https://user-images.githubusercontent.com/94431295/142839670-52767fc6-c477-4f7b-a091-c779154e9522.jpg)
+
+![structural 2 diag cal](https://user-images.githubusercontent.com/94431295/142839712-092591f4-4de9-48a4-bd71-f5ba352cd207.jpg)
+
+﻿**Implementation**
+
+**Folder Structure**
+
+
+|Folder|Description|
+| - | - |
+|inc|All header files|
+|src|Main source code for system|
+|test|All source code and data for testing purposes|
+|build|Build output|
+
+
+
+
+
+
+
+
+
+**Steps To run Project** 
+
+- First clone the repository from the Github. 
+- Open the repository in an IDE (Suggesting Visual Studio Code). 
+- The next step is to build the project with the help of make command : make all 
+- Next step is to run the project with help of make command : make run 
+- If you want to run the test cases then run the following command : make test 
+- Clean all executable files by the following command : make clean
