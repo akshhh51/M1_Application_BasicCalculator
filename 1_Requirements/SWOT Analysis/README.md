@@ -4,6 +4,6 @@
 
 **Weakness:** You need to take basic training to operate some basic commands. Some technical calculators are costly too. People will be unable to memorize the process of problem solving and depend on calculators. 
 
-**Opportunities:** It is efficient for everyone as it is capable of solving complex problems so easily and saves time of the user. 
+**Opportunities:** It is efficient for everyone as it is capable of solving complex problems so easily and saves time of the user.Basic calculators are affordable to most. 
 
 **Threats:** By using the calculators people looses the ability to do calculations manually as they want to save their time from doing calculations manually.
