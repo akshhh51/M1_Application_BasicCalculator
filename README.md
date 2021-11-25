@@ -1,5 +1,5 @@
-# M1_Application_BasicCalculator
-
+# M1_Application_BasicCalculator          
+![calci gif](https://user-images.githubusercontent.com/94431295/143330586-2ad03cb4-9fa6-4ee8-beb3-3be10ca9fd23.gif)
 # Badges
 codacy | Cpp Check | Code Quality Score | Code Grade
 ------|----------|-------|--------
