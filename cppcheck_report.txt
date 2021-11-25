@@ -1,3 +1,6 @@
+3_Implementation/test/test_operations.c:94:20: error: Unmatched '('. Configuration: ''. [syntaxError]
+  TEST_ASSERT_EQUAL(25, sq(5);
+                   ^
 3_Implementation/unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 42 configurations. Use --force to check all configurations. [toomanyconfigs]
 
 ^
